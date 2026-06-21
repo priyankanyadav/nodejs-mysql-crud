@@ -1,0 +1,1 @@
+{"version":3,"file":"DBConnectionFields.d.ts","sourceRoot":"","sources":["../../lib/DBConnectionFields.ts"],"names":[],"mappings":"AAGA,qBAAa,kBAAkB;IAC7B,IAAI,EAAE,MAAM,CAAM;IAClB,IAAI,EAAE,MAAM,CAAM;IAClB,QAAQ,EAAE,MAAM,CAAM;IACtB,QAAQ,EAAE,MAAM,CAAM;gBAEV,IAAI,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM;CAM3E"}
